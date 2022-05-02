@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 __pycache__
 .cache
+genius_config.py
+spotify_config.py

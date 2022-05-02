@@ -26,29 +26,29 @@ pip install -r requirements.txt
 
 - Follow the instructions on [Genius API Documentation](https://docs.genius.com/) to get your own client_id, client_secret, and client_access_token.
 
-- Then create a 'genius_config.py' file with variables for your 'client_id', 'client_secret', and 'client_access_token'.
+- Then create a `genius_config.py` file with variables for your `client_id`, `client_secret`, and `client_access_token`.
 
 #### Spotify
 
 - Follow the instructions on [Spotify API Documentation](https://developer.spotify.com/documentation/web-api/) to get your own client_id, client_secret.
 
-- Then create a 'spotify_config.py' file with the variables for your 'SPOTIPY_CLIENT_ID', and 'SPOTIPY_CLIENT_SECRET'.
+- Then create a `spotify_config.py` file with the variables for your `SPOTIPY_CLIENT_ID`, and `SPOTIPY_CLIENT_SECRET`.
 
 ### How to use
 
 #### Data Generation
 
-- Open the 'data_generation_spotify' or 'data_generation_genius' notebook. 
+- Open the `data_generation_spotify` or `data_generation_genius` notebook. 
 
-- Enter a playlist/album URL in the allocated variable for 'data_generation_spotify'.
+- Enter a playlist/album URL in the allocated variable for `data_generation_spotify`.
 
-- Or, enter an artist name in the allocated variable for 'data_generation_genius'.
+- Or, enter an artist name in the allocated variable for `data_generation_genius`.
 
 - Other options are to choose from the already created datasets.
 
 #### Training the Model
 
-- Open the 'model_generation_and_training' notebook.
+- Open the `model_generation_and_training` notebook.
 
 - Input the currated .csv file in the associated variable.
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 #### Generating New Lyrics
 
-- Open the 'lyric_generation' notebook.
+- Open the `lyric_generation` notebook.
 
 - Update the associated variables with the correct dataset, and model.
 

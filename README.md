@@ -4,7 +4,7 @@ Training a neural network to generate song-lyrics using a number of currated dat
 
 ## Scraping data
 
-Using [Genius] (https://docs.genius.com/), and [Spotify] (https://developer.spotify.com/documentation/web-api/) Web APIs, we are able to get song lyrics as well as playlist and artist data.
+Using [Genius](https://docs.genius.com/), and [Spotify](https://developer.spotify.com/documentation/web-api/) Web APIs, we are able to get song lyrics as well as playlist and artist data.
 
 ### Getting started
 
@@ -24,13 +24,13 @@ pip install -r requirements.txt
 
 #### Genius
 
-- Follow the instructions on [Genius API Documentation] (https://docs.genius.com/) to get your own client_id, client_secret, and client_access_token.
+- Follow the instructions on [Genius API Documentation](https://docs.genius.com/) to get your own client_id, client_secret, and client_access_token.
 
 - Then create a 'genius_config.py' file with variables for your 'client_id', 'client_secret', and 'client_access_token'.
 
 #### Spotify
 
-- Follow the instructions on [Spotify API Documentation] (https://developer.spotify.com/documentation/web-api/) to get your own client_id, client_secret.
+- Follow the instructions on [Spotify API Documentation](https://developer.spotify.com/documentation/web-api/) to get your own client_id, client_secret.
 
 - Then create a 'spotify_config.py' file with the variables for your 'SPOTIPY_CLIENT_ID', and 'SPOTIPY_CLIENT_SECRET'.
 

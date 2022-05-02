@@ -10,15 +10,15 @@ Using [Genius](https://docs.genius.com/), and [Spotify](https://developer.spotif
 
 First:
 
-'''bash
+```bash
 git clone https://github.com/alexpinette/Lyric-Generator.git
-'''
+```
 
 Then you are going to need to install the required libraries:
 
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 
 ### Create your own API client
 

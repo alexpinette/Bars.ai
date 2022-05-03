@@ -2,6 +2,8 @@
 
 Training a neural network to generate song-lyrics using a number of currated datasets containing lyrics from music artists.
 
+by Alex Pinette, Milo Lani-Caputo, and Tamsin Rogers
+
 ## Scraping data
 
 Using [Genius](https://docs.genius.com/), and [Spotify](https://developer.spotify.com/documentation/web-api/) Web APIs, we are able to get song lyrics as well as playlist and artist data.

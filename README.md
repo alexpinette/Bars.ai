@@ -13,7 +13,7 @@ Using [Genius](https://docs.genius.com/), and [Spotify](https://developer.spotif
 First:
 
 ```bash
-git clone https://github.com/alexpinette/Lyric-Generator.git
+git clone https://github.com/alexpinette/Bars.ai.git
 ```
 
 Then you are going to need to install the required libraries:

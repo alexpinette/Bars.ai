@@ -1,4 +1,4 @@
-# Lyric-Generator
+# Bars.ai
 
 Training a neural network to generate song-lyrics using a number of currated datasets containing lyrics from music artists.
 
